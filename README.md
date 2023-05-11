@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Rd-Brito13 😁
+## Bem-vindo(a), ao perfil do Rd-Brito13 
 
  <div>
    <a href="https://github.com/Rd-Brito13">

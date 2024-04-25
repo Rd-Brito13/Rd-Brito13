@@ -28,6 +28,5 @@
             
           
  
-  ![Snake animation](https://github.com/Rd-Brito13/Rd-Brito13/blob/output/github-contribution-grid-snake.svg)
-
+  ![Snake animation](https://github.com/rd-brito13/rd-brito13/blob/output/github-contribution-grid-snake.svg)
 </div>

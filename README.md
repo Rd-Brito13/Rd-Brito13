@@ -1,4 +1,4 @@
-## Bem-vindo(a), ao perfil do Rd-Brito13 
+## Olá!, Eu sou o Rodrigo Brito👋  
 
  <div>
    <a href="https://github.com/Rd-Brito13">
@@ -24,9 +24,10 @@
  
   <a href = "https://mail.google.com/mail/u/0/#inboxbrito.rd13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rodrigo-brito-a4393a277" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/rodrigo-brito-a4393a277" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+
   
             
           
- 
-  ![Snake animation](https://github.com/rd-brito13/rd-brito13/blob/output/github-contribution-grid-snake.svg)
+
 </div>

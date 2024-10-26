@@ -2,7 +2,7 @@
 
    
    ![Rd-brito13 GitHub stats](https://github-readme-stats.vercel.app/api?username=Rd-Brito13&show_icons=true&theme=highcontrast)
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rd-Brito13&layout=compact)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rd-Brito13&layout=compact&theme=highcontrast)
 
    ### Tecnologias que utilizo
 <div style="display: inline_block"><br>

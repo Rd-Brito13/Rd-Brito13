@@ -1,9 +1,9 @@
 ## Olá!, Eu sou o Rodrigo Brito👋  
 
    
-   ![Rd-brito13 GitHub stats](https://github-readme-stats.vercel.app/api?username=Rd-Brito13&show_icons=true&theme=highcontrast)
+   ![Rd-brito13 status no Github](https://github-readme-stats.vercel.app/api?username=Rd-Brito13&show_icons=true&theme=highcontrast)
    <br>
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rd-Brito13&layout=compact&theme=highcontrast)
+   ![Rd-brito13 Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Rd-Brito13&layout=compact&theme=highcontrast)
 
    ### Tecnologias que utilizo
 <div style="display: inline_block"><br>

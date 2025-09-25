@@ -20,4 +20,3 @@
 </div>
  <br>
  
-  ### Entusiasta de análise de dados, transformando dados em insights acionáveis para impulsionar decisões estratégicas. Explorando e aprendendo sempre! 

@@ -1,5 +1,3 @@
-![Rodrigo Silva](https://img.shields.io/badge/🧑‍💻%20Rodrigo%20Silva-000?style=for-the-badge&logoColor=white)
-
 
 
 ### Linguagens

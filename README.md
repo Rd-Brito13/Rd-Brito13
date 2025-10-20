@@ -3,7 +3,7 @@
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-000?&logo=microsoftsqlserver&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-000?logo=https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png)
 ![R](https://img.shields.io/badge/-R-000?&logo=R)
 
 ### Tecnologias que utilizo

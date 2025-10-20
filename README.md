@@ -8,6 +8,7 @@
 
 ### Tecnologias que utilizo
 <div style="display: inline_block"><br>
+ 
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=numpy)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-000?&logo=scikit-learn)

@@ -16,9 +16,9 @@
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=matplotlib)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-000?&logo=jupyter)
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-000?&logo=googlecolab)
-![dplyr](https://img.shields.io/badge/-dplyr-000?&logo=R&logoColor=white)
-![ggplot2](https://img.shields.io/badge/-ggplot2-000?&logo=R&logoColor=white)
-![tidyr](https://img.shields.io/badge/-tidyr-000?&logo=R&logoColor=white)
+![dplyr](https://img.shields.io/badge/-dplyr-000?logo=https://dplyr.tidyverse.org/logo.png)
+![tidyr](https://img.shields.io/badge/-tidyr-000?logo=https://tidyr.tidyverse.org/logo.png)
+![ggplot2](https://img.shields.io/badge/-ggplot2-000?logo=https://ggplot2.tidyverse.org/logo.png)
         
 </div>
  <br>

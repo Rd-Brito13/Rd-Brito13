@@ -8,12 +8,14 @@
 
 ### Tecnologias que utilizo
 <div style="display: inline_block"><br>
-   
-<img align="center" alt="Python"  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img align="center" alt="TSQL"  src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
-<img align="center" alt="PLpgSQL"  src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-<img align="center" alt="Jupyter"  src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter">
-<img align="center" alt="Linguagem R"  src="https://img.shields.io/badge/Linguagem%20R-3776AB?style=for-the-badge&logo=r&logoColor=R">
+![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=numpy)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-000?&logo=scikit-learn)
+![Seaborn](https://img.shields.io/badge/-Seaborn-000?&logo=seaborn)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=matplotlib)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-000?&logo=jupyter)
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-000?&logo=googlecolab)
+![R Libraries](https://img.shields.io/badge/-R%20Stats%20Libraries-000?&logo=R&logoColor=white)
 
  
           

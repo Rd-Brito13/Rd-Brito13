@@ -1,9 +1,9 @@
 ## Olá!, Eu sou o Rodrigo Brito👋  
 
-### Languages
+### Linguagens
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-000?logo=https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![R](https://img.shields.io/badge/-R-000?&logo=R)
 
 ### Tecnologias que utilizo

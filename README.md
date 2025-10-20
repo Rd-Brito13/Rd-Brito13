@@ -18,7 +18,7 @@
 
 ### Projetos Machine Learning Supervisionado
 
-[![](https://img.shields.io/badge/🧬%20Classificação%20do%20Câncer%20de%20Mama-000?style=for-the-badge)](https://github.com/Rd-Brito13/Classificacao-do-cancer-de-mama)
+[![](https://img.shields.io/badge/🧬%20Câncer%20de%20Mama-000?style=for-the-badge)](https://github.com/Rd-Brito13/Classificacao-do-cancer-de-mama)
 
 </div>
  <br>

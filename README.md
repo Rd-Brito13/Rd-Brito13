@@ -16,10 +16,9 @@
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=matplotlib)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-000?&logo=jupyter)
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-000?&logo=googlecolab)
-![dplyr](https://img.shields.io/badge/-dplyr-000?logo=https://dplyr.tidyverse.org/logo.png)
-![tidyr](https://img.shields.io/badge/-tidyr-000?logo=https://tidyr.tidyverse.org/logo.png)
-![ggplot2](https://img.shields.io/badge/-ggplot2-000?logo=https://ggplot2.tidyverse.org/logo.png)
-        
+<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/assets/logos/ggplot2.png" alt="ggplot2" width="22" style="vertical-align:middle;">
+<img src="https://img.shields.io/badge/-ggplot2-000" alt="ggplot2 badge" style="vertical-align:middle;">
+
 </div>
  <br>
  

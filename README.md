@@ -15,6 +15,11 @@
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=matplotlib)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-000?&logo=jupyter)
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-000?&logo=googlecolab)
+
+### Projetos Machine Learning Supervisionado
+
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-000?&logo=scikitlearn&logoColor=white)
+
 </div>
  <br>
  

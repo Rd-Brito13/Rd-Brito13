@@ -1,4 +1,4 @@
-![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rd-Brito13&show_icons=true&theme=dark)
+
 
 
 ### Linguagens

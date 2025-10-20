@@ -4,7 +4,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![R](https://img.shields.io/badge/-R-000?&logo=R)
+![R](https://img.shields.io/badge/-R-000?&logo=R&logoColor=Blue)
 
 ### Tecnologias que utilizo
 <div style="display: inline_block"><br>

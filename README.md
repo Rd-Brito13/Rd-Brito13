@@ -23,7 +23,7 @@
 
 ### Projetos Machine Learning Não-Supervisionado
 
-[![](https://img.shields.io/badge/🍷%20Agrupamento%20de%20Vinhos-000?style=for-the-badge)](https://github.com/Rd-Brito13/Projeto-WineChem))
+[![](https://img.shields.io/badge/🍷%20Agrupamento%20de%20Vinhos-000?style=for-the-badge)](https://github.com/Rd-Brito13/Projeto-WineChem)
 
 
 </div>

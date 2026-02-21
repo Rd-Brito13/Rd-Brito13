@@ -18,7 +18,7 @@
 
 ### Projetos Machine Learning Supervisionado
 
-[![](https://img.shields.io/badge/🧬%20Câncer%20de%20Mama-000?style=for-the-badge)](https://github.com/Rd-Brito13/Classificacao-do-cancer-de-mama)
+[![](https://img.shields.io/badge/🧬%20Breast%20Cancer%20Classification%20-000?style=for-the-badge)](https://github.com/Rd-Brito13/Classificacao-do-cancer-de-mama)
 [![](https://img.shields.io/badge/📊%20Seguro%20de%20Saúde-000?style=for-the-badge)](https://github.com/Rd-Brito13/Previsao-de-custos-de-seguro-de-saude)
 
 ### Projetos Machine Learning Não-Supervisionado

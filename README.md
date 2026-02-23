@@ -23,7 +23,7 @@
 
 ### Projetos Machine Learning Não-Supervisionado
 
-[![](https://img.shields.io/badge/🍷%20WineChem%20Unsupervised%20Clustering-000?style=for-the-badge)](https://github.com/Rd-Brito13/WineChem-Unsupervised-Clustering-and-Chemical-Pattern-Analysis)
+[![](https://img.shields.io/badge/🍷%20WineChem%20%20Clustering-000?style=for-the-badge)](https://github.com/Rd-Brito13/WineChem-Unsupervised-Clustering-and-Chemical-Pattern-Analysis)
 
 
 </div>

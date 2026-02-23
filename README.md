@@ -19,11 +19,11 @@
 ### Projetos Machine Learning Supervisionado
 
 [![](https://img.shields.io/badge/🧬%20Breast%20Cancer%20Classification%20-000?style=for-the-badge)](https://github.com/Rd-Brito13/Breast-Cancer-Classification-with-Recall-Oriented-Model-Selection)
-[![](https://img.shields.io/badge/📊%20Seguro%20de%20Saúde-000?style=for-the-badge)](https://github.com/Rd-Brito13/Previsao-de-custos-de-seguro-de-saude)
+[![](https://img.shields.io/badge/📊%20Health%20Insurance%20Cost-000?style=for-the-badge)](https://github.com/Rd-Brito13/Health-Insurance-Cost-Prediction-using-Machine-Learning)
 
 ### Projetos Machine Learning Não-Supervisionado
 
-[![](https://img.shields.io/badge/🍷%20Agrupamento%20de%20Vinhos-000?style=for-the-badge)](https://github.com/Rd-Brito13/Projeto-WineChem)
+[![](https://img.shields.io/badge/🍷%20WineChem%20Unsupervised%20Clustering-000?style=for-the-badge)](https://github.com/Rd-Brito13/WineChem-Unsupervised-Clustering-and-Chemical-Pattern-Analysis))
 
 
 </div>

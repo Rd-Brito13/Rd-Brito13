@@ -20,6 +20,7 @@
 
 [![](https://img.shields.io/badge/🧬%20Breast%20Cancer%20Classification%20-000?style=for-the-badge)](https://github.com/Rd-Brito13/Breast-Cancer-Classification-with-Recall-Oriented-Model-Selection)
 [![](https://img.shields.io/badge/📊%20Health%20Insurance%20Cost-000?style=for-the-badge)](https://github.com/Rd-Brito13/Health-Insurance-Cost-Prediction-using-Machine-Learning)
+[![](https://img.shields.io/badge/📊%20Credit%20Risk%20Cost-000?style=for-the-badge)](https://github.com/Rd-Brito13/Health-Insurance-Cost-Prediction-using-Machine-Learning)
 
 ### Projetos Machine Learning Não-Supervisionado
 
